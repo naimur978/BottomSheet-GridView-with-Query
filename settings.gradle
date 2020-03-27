@@ -1,0 +1,2 @@
+rootProject.name='BottomSheet GridView with Query Option'
+include ':app'

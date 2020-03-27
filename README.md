@@ -1,3 +1,3 @@
 # BottomSheet GridView with Query
- 
-![FlipUI gif](https://gfycat.com/blaringhollowamericanbulldog.gif)
+
+![FlipUI gif](http://i.imgur.com/KLUcAvG.gif)
